@@ -1,6 +1,4 @@
-import os
 import logging
-import subprocess
 from config import *
 from telebot import TeleBot
 
