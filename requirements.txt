@@ -1,0 +1,4 @@
+telebot==0.0.5
+pyTelegramBotAPI==4.24.0
+moviepy==2.0.0.dev2
+pillow==9.5.0
