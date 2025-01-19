@@ -49,4 +49,4 @@ def process_video(message):
 
 if __name__ == "__main__":
     print("Бот запускается...")
-    bot.polling(non_stop=True)
+    bot.infinity_polling()
