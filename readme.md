@@ -9,7 +9,9 @@
 # Библиотеки
 Указаны в рекварментсе, устанавливать данной командой:
 
-```pip install -r requirements.txt```
+```
+pip install -r requirements.txt
+```
 
 # Благодарности
 Спасибо [этому репозиторию](https://github.com/Dizro/Telegram-Video-Circle-Bot) за код конвертера, хоть и без бед не обошлось
